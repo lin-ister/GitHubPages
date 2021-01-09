@@ -2,4 +2,4 @@
 
 Brian Lin's User Page
 
-https://github.com/lin-ister/lin-ister.github.io.git
+[link to repositories](https://github.com/lin-ister/lin-ister.github.io.git)
