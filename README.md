@@ -32,8 +32,8 @@ Adidas
 Jordan
 Gucci
 ```
-This is my quaratine fit
-![image](./Users/linister/Downloads/IMG_7052.JPG)
+This is not me but another Brian Lin
+![image](https://media-exp1.licdn.com/dms/image/C4D03AQEE_PK7rk-DKA/profile-displayphoto-shrink_800_800/0/1571175280023?e=1615420800&v=beta&t=RmC1xBIad3oj2xjobBVb11NQjTrK_JAPEhclHJjeJWo)
 
 [link to repositories](https://github.com/lin-ister/lin-ister.github.io.git)
 
