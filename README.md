@@ -37,4 +37,6 @@ This is not me but another Brian Lin that apparently works at Google.
 
 [link to repositories](https://github.com/lin-ister/lin-ister.github.io.git)
 
-[link back to here](./README.md)
+[link back to here](https://lin-ister.github.io/)
+
+[link to README](./README.md)
