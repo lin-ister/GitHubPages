@@ -11,6 +11,8 @@ __for__
 
 _For **CSE110**_
 
+###### My Background
+
 Hi everyone!
 My name is Brian. I am a 4th year Computer Science undergraduate who transferred from the Los Angeles area.
 
@@ -18,7 +20,7 @@ I originally did not transfer in as a Computer Sciencemajor, rather I transferre
 
 I am into collecting shoes and Nintendo. My hobbies are researching popular brands for clothing and listening to new music everyday. 
 
-This is my [Instagram](https://www.instagram.com/lin_ister/) where I post my clothing style :D
+***This is my [Instagram](https://www.instagram.com/lin_ister/) where I post my clothing style :D***
 
 
 I am "quote": 
@@ -30,7 +32,7 @@ Brands include:
 Nike
 Adidas
 Jordan
-Gucci
+~~GUCCI~~
 ```
 This is not me but another Brian Lin that apparently works at Google.
 ![image](https://media-exp1.licdn.com/dms/image/C4D03AQEE_PK7rk-DKA/profile-displayphoto-shrink_800_800/0/1571175280023?e=1615420800&v=beta&t=RmC1xBIad3oj2xjobBVb11NQjTrK_JAPEhclHJjeJWo)
