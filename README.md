@@ -33,7 +33,7 @@ Jordan
 Gucci
 ```
 This is my quaratine fit
-![image](Downloads/IMG_7052.JPG)
+![image](./Users/linister/Downloads/IMG_7052.JPG)
 
 [link to repositories](https://github.com/lin-ister/lin-ister.github.io.git)
 
