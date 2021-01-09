@@ -4,6 +4,12 @@
 
 Brian Lin's User Page
 
+*Welcome*
+_To_
+**Progamming**
+__for__
+
+_For **CSE110**_
 
 Hi everyone!
 My name is Brian. I am a 4th year Computer Science undergraduate who transferred from the Los Angeles area.
@@ -14,13 +20,6 @@ I am into collecting shoes and Nintendo. My hobbies are researching popular bran
 
 This is my [Instagram](https://www.instagram.com/lin_ister/) where I post my clothing style :D
 
-
-*Welcome*
-_To_
-**Progamming**
-__for__
-
-_For **CSE110**_
 
 I am "quote": 
 
@@ -33,5 +32,7 @@ Adidas
 Jordan
 Gucci
 ```
+This is my quaratine fit
+![image](Downloads/IMG_7052.JPG)
 
 [link to repositories](https://github.com/lin-ister/lin-ister.github.io.git)
