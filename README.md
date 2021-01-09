@@ -37,4 +37,4 @@ This is my quaratine fit
 
 [link to repositories](https://github.com/lin-ister/lin-ister.github.io.git)
 
-[link to repositories](./README.md)
+[link back to here](./README.md)
